@@ -44,5 +44,11 @@
 // echo gettype($satu); 
 // echo gettype($dua); 
 
+// 6.
+// $pertama = 0.5;
+// $pertama *= 2;
+// echo $pertama; 
+
+
 
 ?>
